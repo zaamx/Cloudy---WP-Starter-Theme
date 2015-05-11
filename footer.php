@@ -7,7 +7,7 @@
  * @package wpzaamx
  */
 ?>
-
+		</div><!-- .row -->
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">

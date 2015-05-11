@@ -1,0 +1,1647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"cae",
+				"category"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"gray-ligh",
+				"gray-lighter"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"this",
+				"this_category"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"tri-za",
+				"tri-azul2"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 3233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 2058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page-template.php",
+			"settings":
+			{
+				"buffer_size": 1892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search.php",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single-custom_type.php",
+			"settings":
+			{
+				"buffer_size": 1792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taxonomy-custom_cat.php",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.php",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive-custom_type.php",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive.php",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 35 files for \"content-area\"\n\n/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/layout/_content-sidebar.scss:\n    1: .content-area {\n    2  	float: left;\n    3  	margin: 0 (-$size__site-sidebar) 0 0;\n\n/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/layout/_sidebar-content.scss:\n    1: .content-area {\n    2  	float: right;\n    3  	margin: 0 0 0 (-$size__site-sidebar);\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 475,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "library/inc/template-tags.php",
+			"settings":
+			{
+				"buffer_size": 10564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "library/sass/modules/_accessibility.scss",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-parts/content-custom_type.php",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-parts/content.php",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "comments.php",
+			"settings":
+			{
+				"buffer_size": 2740,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 366.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/primary",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/secondary"
+	],
+	"file_history":
+	[
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/.sass-cache/0d9c56a3399e98e6a390d05af6eb8f477d0e85c9/_accessibility.scssc",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/inc/custom-postype.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/sidebar.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content-custom_type.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/page-template.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/single-custom_type.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/archive.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content-404.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/inc/extras.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/functions.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content-page.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content-single.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/taxonomy-custom_cat.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/primary/_sections.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/primary/_posts-and-pages.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/media/_galleries.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/navigation/_pagination.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/javascripts/scripts.js",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/layout/_content-sidebar.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/modules/_alignments.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/typography/_typography.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/_bootstrap-variables.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/navigation/_navigation.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/_site.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/site/primary/_comments.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/styles.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/single.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/footer.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/mixins/_mixins-master.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/index.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/page.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/search.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/content-search.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/inc/template-tags.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/header.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/variables-site/_colors.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/404.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/fonts/font-awesome/less/variables.less",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/fonts/font-awesome/less/mixins.less",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/template-parts/header-extras.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/style.css",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/config.rb",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/inc/customizer.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/inc/custom-header.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/stylesheets/styles.css",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/bootstrap.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/.gitignore",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/stylesheets/bootstrap.css",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sassxx/style.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass/styles.sass",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/my-new-project/sass/styles.scss",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/config.rb",
+		"/Users/avila/Vagrant/my-project/Vagrantfile",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/category-8.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/custom-post-type.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/taxonomy-custom_cat.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/archive.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/front-page.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/archive-calendario.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/archive-calendariosold.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/header.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/variables.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/single-template-galerias.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/footer.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/footer-swipe.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/_xs-base.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/js/scripts.js",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/js/libs/plugins.js",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/single-calendario.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/functions.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/bones.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/image.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/post-formats/format.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/post-formats/format-aside.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type2.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/part-share.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/page-calendarios.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-calendar.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-calendarb.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/taxonomy-eventos_cat.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/single-galerias.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/taxonomy-categoria-calendario.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/taxonomy-calendario.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type2Bnner.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/_sm-768up.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/sidebar.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/category-galerias.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-gallery.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/plugins/simple-ads-manager/list.admin.class.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/_md-992up.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-config.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/index.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/archive.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/single.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/search.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/page.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/library/inc/registro-scripts.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/library/inc/extras.php",
+		"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/stzaa/functions.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type1.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type4.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type5.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type6.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type6Bnner.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type6v2.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/mason-type7.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/parts/part-simshare.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/single.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/style.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/404.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/content.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/single-custom_type.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/readme.txt",
+		"/Users/avila/Downloads/tri_prod_230315_1641.sql",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/archive-custom_type.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/popovers.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/progress-bars.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/page-custom.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/fonts/zag_bold_macroman/specimen_files/specimen_stylesheet.css",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/css/libs/drop/drop-theme-arrows-social.css",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/component-animations.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/CHANGELOG.md",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/mixins/nav-vertical-align.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/style.css",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/page.php",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/library/less/libs/bootstrap-3/badges.less",
+		"/Users/avila/Vagrant/my-project/public/trimx/wp-content/themes/trimexico2015/search.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass",
+			"",
+			"/Users/avila/Vagrant/my-project/public/wpzaa/wp-content/themes/wpzaamx/library/sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content-area",
+			"<div id=\"primary\" class=\"content-area\">",
+			"screen-reader-text",
+			"bonestheme",
+			"bonesthemes",
+			"bones_related_posts",
+			"bonestheme",
+			"wpzaamx",
+			"<?php the_title( '<h1 class=\"entry-title\">', '</h1>' ); ?>",
+			"<?php the_posts_navigation(); ?>",
+			"the_posts_navigation",
+			"site-main",
+			"comments",
+			"#comments-title ",
+			".prev-link",
+			".wp-prev-next",
+			"@gray-light",
+			".wp-caption",
+			"\"/library/images/",
+			"menus",
+			"/library/js/",
+			"'bones-",
+			"'zaamx-",
+			"show_banner_1",
+			".item",
+			"show_banner_1",
+			"vide",
+			"unixtimestamp",
+			"infinite",
+			"baseUrl",
+			"•         ",
+			"replace",
+			"bannervideo",
+			"excerpt",
+			"queried_object",
+			"is_page",
+			"frontQuery",
+			"is_category",
+			"frontQuery",
+			"wpquery",
+			"calendarb",
+			"<img",
+			"zaamx-",
+			"estilos",
+			"get_template_part( 'content'",
+			"<?php get_template_part( 'content'",
+			"'/inc/",
+			"get_template_directory_uri() . '/",
+			"mason",
+			"filer",
+			"transitionç",
+			"transition",
+			"footer",
+			"outer-header",
+			"navbar-nav",
+			"navbar",
+			"<div class=\"grid-sizer\"></div>",
+			"searchbox",
+			"navbar",
+			"item",
+			"calendar",
+			"calendario",
+			"template",
+			" ",
+			"dropdown",
+			"calendar ",
+			"zag_bold_macroman",
+			"navbar",
+			".home",
+			".archive",
+			"gallery",
+			"<?php// ",
+			"triold",
+			"http://127.0.0.1:8080/triold/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sr-only",
+			"wpzaamx",
+			"bonestheme",
+			"<?php the_title( '<h1 class=\"entry-title\"  itemprop=\"headline\" rel=\"bookmark\">', '</h1>' ); ?>",
+			"<?php wpzaamx_page_navi(); ?>",
+			"$gray-light",
+			"\"<?php echo get_template_directory_uri(); ?>/library/images/",
+			"/library/javascripts/",
+			"'wpzaamx-",
+			"",
+			"queryTags",
+			"stzaa-",
+			"get_template_part( 'partials/content'",
+			"<?php get_template_part( 'partials/content'",
+			"'/library/inc/",
+			"get_template_directory_uri() . '/library/",
+			"<div class=\"grid-sizer hentry\"></div>",
+			"\n",
+			"<?php // ",
+			"http://192.168.33.10/trimx/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3232,
+								3232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "page-template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "search.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "single-custom_type.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "single.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "taxonomy-custom_cat.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "archive-custom_type.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "archive.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										161,
+										173
+									],
+									[
+										366,
+										378
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "library/inc/template-tags.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 1534.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "library/sass/modules/_accessibility.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "template-parts/content-custom_type.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "template-parts/content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "comments.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cloudy.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"ta",
+				"taxonomy-custom_cat.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"ar",
+				"archive.php"
+			],
+			[
+				"content_",
+				"template-parts/content-custom_type.php"
+			],
+			[
+				"custom",
+				"single-custom_type.php"
+			],
+			[
+				"arce",
+				"archive.php"
+			],
+			[
+				"-single",
+				"template-parts/content-single.php"
+			],
+			[
+				"single",
+				"single.php"
+			],
+			[
+				"page",
+				"template-parts/content-page.php"
+			],
+			[
+				"extras",
+				"library/inc/extras.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"searc",
+				"template-parts/content-search.php"
+			],
+			[
+				"archive",
+				"archive.php"
+			],
+			[
+				"content-sin",
+				"template-parts/content-single.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"template",
+				"library/inc/template-tags.php"
+			],
+			[
+				"mixins",
+				"library/sass/mixins/_mixins-master.scss"
+			],
+			[
+				"scripts",
+				"library/javascripts/scripts.js"
+			],
+			[
+				"pagination",
+				"library/sass/navigation/_pagination.scss"
+			],
+			[
+				"arci",
+				"archive.php"
+			],
+			[
+				"functio",
+				"functions.php"
+			],
+			[
+				"var",
+				"library/fonts/font-awesome/less/variables.less"
+			],
+			[
+				"typho",
+				"library/sass/typography/_typography.scss"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"colors",
+				"library/sass/variables-site/_colors.scss"
+			],
+			[
+				"sing",
+				"single.php"
+			],
+			[
+				"fr",
+				"front-page.php"
+			],
+			[
+				"9",
+				"library/less/_md-992up.less"
+			],
+			[
+				"base",
+				"library/less/_xs-base.less"
+			],
+			[
+				"fro",
+				"front-page.php"
+			],
+			[
+				".txt",
+				"posicionesAdds.txt"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"single-",
+				"single-calendario.php"
+			],
+			[
+				"fron",
+				"front-page.php"
+			],
+			[
+				"99",
+				"library/less/_md-992up.less"
+			],
+			[
+				"768",
+				"library/less/_sm-768up.less"
+			],
+			[
+				"mason2",
+				"parts/mason-type2Bnner.php"
+			],
+			[
+				"scr",
+				"library/js/scripts.js"
+			],
+			[
+				"vide",
+				"library/js/libs/dist/jquery.vide.js"
+			],
+			[
+				"cate",
+				"category-8.php"
+			],
+			[
+				"galer",
+				"category-galerias.php"
+			],
+			[
+				"mason-cale",
+				"parts/mason-calendar.php"
+			],
+			[
+				"page-",
+				"page-calendarios.php"
+			],
+			[
+				"",
+				"parts/mason-gallery.php"
+			],
+			[
+				"bas",
+				"library/less/_xs-base.less"
+			],
+			[
+				"plug",
+				"library/js/libs/plugins.js"
+			],
+			[
+				"bones",
+				"library/bones.php"
+			],
+			[
+				"imag",
+				"image.php"
+			],
+			[
+				"image",
+				"image.php"
+			],
+			[
+				"mas",
+				"parts/mason-gallery.php"
+			],
+			[
+				"galler",
+				"post-formats/format-gallery.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"scre",
+				"single-calendario.php"
+			],
+			[
+				"share",
+				"parts/part-share.php"
+			],
+			[
+				"format",
+				"post-formats/format-aside.php"
+			],
+			[
+				"plugins",
+				"library/js/libs/plugins.js"
+			],
+			[
+				"ima",
+				"image.php"
+			],
+			[
+				"for",
+				"post-formats/format.php"
+			],
+			[
+				"mason",
+				"parts/mason-type2.php"
+			],
+			[
+				"ca",
+				"archive-calendariosold.php"
+			],
+			[
+				"swipe",
+				"parts/footer-swipe.php"
+			],
+			[
+				"galerias",
+				"single-template-galerias.php"
+			],
+			[
+				"headr",
+				"header.php"
+			],
+			[
+				"cust",
+				"library/custom-post-type.php"
+			],
+			[
+				"calendar",
+				"parts/mason-calendarb.php"
+			],
+			[
+				"tax",
+				"taxonomy-custom_cat.php"
+			],
+			[
+				"taxcp",
+				"library/taxonomy-categoria-calendario.php"
+			],
+			[
+				"taxom",
+				"library/taxonomy-calendario.php"
+			],
+			[
+				"arcv",
+				"archive.php"
+			],
+			[
+				"frot",
+				"front-page.php"
+			],
+			[
+				"forma",
+				"post-formats/format.php"
+			],
+			[
+				"gal",
+				"category-galerias.php"
+			],
+			[
+				"h",
+				"header.php"
+			],
+			[
+				"992",
+				"library/less/_md-992up.less"
+			],
+			[
+				"2b",
+				"parts/mason-type2Bnner.php"
+			],
+			[
+				"arc",
+				"archive.php"
+			],
+			[
+				"archiv",
+				"archive.php"
+			],
+			[
+				"mason-ga",
+				"parts/mason-gallery.php"
+			],
+			[
+				"single-g",
+				"single-template-galerias.php"
+			],
+			[
+				"sc",
+				"library/js/scripts.js"
+			],
+			[
+				"mason6",
+				"parts/mason-type6.php"
+			],
+			[
+				"fomrat",
+				"post-formats/format.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"7",
+				"library/less/_sm-768up.less"
+			],
+			[
+				"sideba",
+				"sidebar.php"
+			],
+			[
+				"page-ca",
+				"page-calendarios.php"
+			],
+			[
+				"masoncale",
+				"parts/mason-calendar.php"
+			],
+			[
+				"calenda",
+				"single-calendario.php"
+			],
+			[
+				"pag",
+				"page-calendarios.php"
+			],
+			[
+				"mason1",
+				"parts/mason-type1.php"
+			],
+			[
+				"pagec",
+				"page-calendarios.php"
+			],
+			[
+				"singl",
+				"single.php"
+			],
+			[
+				"vase",
+				"library/less/libs/bootstrap-3/variables.less"
+			],
+			[
+				"masonca",
+				"parts/mason-calendar.php"
+			],
+			[
+				"rchive",
+				"archive.php"
+			],
+			[
+				"mason-type2",
+				"parts/mason-type2.php"
+			],
+			[
+				"singleca",
+				"single-calendario.php"
+			],
+			[
+				"masonga",
+				"parts/mason-gallery.php"
+			],
+			[
+				"categ",
+				"category-galerias.php"
+			],
+			[
+				"style.less",
+				"library/less/style.less"
+			],
+			[
+				"76",
+				"library/less/_sm-768up.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
