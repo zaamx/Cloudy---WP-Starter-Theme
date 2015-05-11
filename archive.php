@@ -34,7 +34,7 @@ get_header(); ?>
 
 			<?php endwhile; ?>
 
-			<?php the_posts_navigation(); ?>
+			<?php wpzaamx_page_navi(); ?>
 
 		<?php else : ?>
 

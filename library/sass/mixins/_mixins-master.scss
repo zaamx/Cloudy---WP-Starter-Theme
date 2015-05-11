@@ -21,3 +21,42 @@
 @mixin clearfix-after() {
 	clear: both;
 }
+
+
+
+// Usage:
+
+// .sidebar {
+//   width: 60%;
+//   float: left;
+//   margin: 0 2% 0 0;
+//   @include bp-small {
+//     width: 100%;
+//     float: none;
+//     margin: 0;
+//   }
+// }
+
+@mixin bs-xs {
+  @media only screen and (min-width: 481px) {
+    @content;
+  }
+}
+
+@mixin bs-sm {
+  @media only screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin bs-md {
+  @media only screen and (min-width: 992px) {
+    @content;
+  }
+}
+
+@mixin bs-lg {
+  @media only screen and (min-width: 1200px) {
+    @content;
+  }
+}
