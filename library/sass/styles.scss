@@ -1,8 +1,20 @@
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+
+
+
+
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
 # Typography
-# Elements
+# Elements 
 # Forms
 # Navigation
 	## Links
@@ -81,5 +93,6 @@
 
 
 body {
-	background:white;
+	background:$filter_black; 
+	height:auto;
 }
