@@ -6,12 +6,12 @@
  */
 ?>
 
-<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>  itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/BlogPosting">
 	<header class="entry-header">
-		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+		<?php the_title( '<h1 class="entry-title"  itemprop="headline" rel="bookmark">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
 
-	<div class="entry-content">
+	<div class="entry-content" itemprop="articleBody">
 		<?php the_content(); ?>
 		<?php
 			wp_link_pages( array(
