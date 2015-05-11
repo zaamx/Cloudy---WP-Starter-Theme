@@ -28,7 +28,7 @@ function wpzaamx_setup() {
 	 * If you're building a theme based on wpzaamx, use a find and replace
 	 * to change 'wpzaamx' to the name of your theme in all the template files
 	 */
-	load_theme_textdomain( 'wpzaamx', get_template_directory() . '/languages' );
+	load_theme_textdomain( 'wpzaamx', get_template_directory() . '/library/languages' );
 
 	// Add default posts and comments RSS feed links to head.
 	add_theme_support( 'automatic-feed-links' );
@@ -102,9 +102,9 @@ add_action( 'widgets_init', 'wpzaamx_widgets_init' );
 function wpzaamx_scripts() {
 	wp_enqueue_style( 'wpzaamx-style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'wpzaamx-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20120206', true );
+	wp_enqueue_script( 'wpzaamx-navigation', get_template_directory_uri() . '/library/javascripts/navigation.js', array(), '20120206', true );
 
-	wp_enqueue_script( 'wpzaamx-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
+	wp_enqueue_script( 'wpzaamx-skip-link-focus-fix', get_template_directory_uri() . '/library/javascripts/skip-link-focus-fix.js', array(), '20130115', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
@@ -115,24 +115,24 @@ add_action( 'wp_enqueue_scripts', 'wpzaamx_scripts' );
 /**
  * Implement the Custom Header feature.
  */
-//require get_template_directory() . '/inc/custom-header.php';
+require get_template_directory() . '/library/inc/custom-header.php';
 
 /**
  * Custom template tags for this theme.
  */
-require get_template_directory() . '/inc/template-tags.php';
+require get_template_directory() . '/library/inc/template-tags.php';
 
 /**
  * Custom functions that act independently of the theme templates.
  */
-require get_template_directory() . '/inc/extras.php';
+require get_template_directory() . '/library/inc/extras.php';
 
 /**
  * Customizer additions.
  */
-require get_template_directory() . '/inc/customizer.php';
+require get_template_directory() . '/library/inc/customizer.php';
 
 /**
  * Load Jetpack compatibility file.
  */
-require get_template_directory() . '/inc/jetpack.php';
+require get_template_directory() . '/library/inc/jetpack.php';
