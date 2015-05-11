@@ -12,3 +12,59 @@
 		}
 
 	} /* end .wp-prev-next */
+
+
+.page-navigation,
+.wp-prev-next {
+	margin: 1.1em 0 2.2em;
+}
+	.pagination{
+	    text-align: center;
+
+	    ul {
+	      display: inline-block;
+	      background-color: $gray-lighter;
+	      white-space: nowrap;
+	      padding: 0;
+	      clear: both;
+	      border-radius: 3px;
+	    }
+
+	    li {
+	      padding: 0;
+	      margin: 0;
+	      float: left;
+	      display: inline;
+	      overflow: hidden;
+	      border-right: 1px solid $gray;
+	    }
+
+	    a, span {
+	      margin: 0;
+	      text-decoration: none;
+	      padding: 0;
+	      line-height: 1em;
+	      font-size: 1em;
+	      font-weight: normal;
+	      padding: 0.75em;
+	      min-width: 1em;
+	      display: block;
+	      color: $brand-primary;
+
+	      &:hover, &:focus {
+	      	background-color: $brand-primary;
+	      	color: $gray-lighter;
+	      }
+	    }
+
+	    .current{
+	    	cursor: default;
+	    	color: $gray;
+
+	    	&:hover, &:focus {
+	    		background-color: $gray-lighter;
+	    		color: $gray;
+	    	}
+	    }
+
+  } /* end .bones_page_navi */
