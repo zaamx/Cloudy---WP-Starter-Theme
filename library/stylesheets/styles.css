@@ -2397,5 +2397,3 @@ embed, iframe, object { max-width: 100%; }
 .gallery-columns-9 .gallery-item { max-width: 11.11%; }
 
 .gallery-caption { display: block; }
-
-body { background: #000; height: auto; }
