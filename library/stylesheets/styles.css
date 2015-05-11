@@ -2252,11 +2252,37 @@ table { margin: 0 0 1.5em; width: 100%; }
 # Navigation
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+a { color: royalblue; }
+a:visited { color: purple; }
+a:hover, a:focus, a:active { color: midnightblue; }
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+/* fallback previous & next links */
+.wp-prev-next .prev-link { float: left; }
+.wp-prev-next .next-link { float: right; }
+
+/* end .wp-prev-next */
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
 # Accessibility
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
 # Alignments
 --------------------------------------------------------------*/
+.alignleft { display: inline; float: left; margin-right: 1.5em; }
+
+.alignright { display: inline; float: right; margin-left: 1.5em; }
+
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
 /*--------------------------------------------------------------
 # Clearings
 --------------------------------------------------------------*/
@@ -2277,18 +2303,88 @@ table { margin: 0 0 1.5em; width: 100%; }
 # Content
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
+## Standard sections of WP
+--------------------------------------------------------------*/
+/* for sites that are read right to left (i.e. hebrew) */
+/* home page */
+/* blog template page */
+/* archive page */
+/* date archive page */
+/* replace the number to the corresponding page number */
+/* search page */
+/* search result page */
+/* no results search page */
+/* individual paged search (i.e. body.search-paged-3) */
+/* 404 page */
+/* single post page */
+/* individual post page by id (i.e. body.postid-73) */
+/* individual paged single (i.e. body.single-paged-3) */
+/* attatchment page */
+/* individual attatchment page (i.e. body.attachmentid-763) */
+/* style mime type pages */
+/* author page */
+/* user nicename (i.e. body.author-samueladams) */
+/* paged author archives (i.e. body.author-paged-4) for page 4 */
+/* category page */
+/* individual category page (i.e. body.category-6) */
+/* replace the number to the corresponding page number */
+/* tag page */
+/* individual tag page (i.e. body.tag-news) */
+/* replace the number to the corresponding page number */
+/* custom page template page */
+/* individual page template (i.e. body.page-template-contact-php */
+/* replace the number to the corresponding page number */
+/* parent page template */
+/* child page template */
+/* replace the number to the corresponding page number */
+/* if user is logged in */
+/* paged items like search results or archives */
+/* individual paged (i.e. body.paged-3) */
+/*--------------------------------------------------------------
 ## Posts and pages
 --------------------------------------------------------------*/
 .sticky { display: block; }
 
 .hentry { margin: 0 0 1.5em; }
 
+.single-title, .page-title, .entry-title { margin: 0; }
+
+/* want to style individual post classes? Booya! */
+/* post by id (i.e. post-3) */
+/* general post style */
+/* general article on a page style */
+/* general style on an attatchment */
+/* sticky post style */
+/* hentry class */
+/* style by category (i.e. category-videos) */
+/* style by tag (i.e. tag-news) */
 .byline, .updated:not(.published) { display: none; }
 
 .single .byline, .group-blog .byline { display: inline; }
 
 .page-content, .entry-content, .entry-summary { margin: 1.5em 0 0; }
 
+.entry-content { /*
+image alignment on a screen this size may be
+a bit difficult. It's set to start aligning
+and floating images at the next breakpoint,
+but it's up to you. Feel free to change it up.
+*/ }
+.entry-content table { width: 100%; border: 1px solid #000; margin-bottom: 1.5em; }
+.entry-content table caption { margin: 0 0 7px; font-size: 0.75em; color: #777777; text-transform: uppercase; letter-spacing: 1px; }
+.entry-content tr { border-bottom: 1px solid #000; }
+.entry-content tr:nth-child(even) { background-color: #777777; }
+.entry-content td { padding: 7px; border-right: 1px solid #000; }
+.entry-content td:last-child { border-right: 0; }
+.entry-content th { background-color: #777777; border-bottom: 1px solid #000; border-right: 1px solid #000; }
+.entry-content th:last-child { border-right: 0; }
+.entry-content blockquote { margin: 0 0 1.5em 0.75em; padding: 0 0 0 0.75em; border-left: 3px solid #337ab7; font-style: italic; color: #777777; }
+.entry-content dd { margin-left: 0; font-size: 0.9em; color: #787878; margin-bottom: 1.5em; }
+.entry-content img { margin: 0 0 1.5em 0; max-width: 100%; height: auto; }
+.entry-content .size-auto, .entry-content .size-full, .entry-content .size-large, .entry-content .size-medium, .entry-content .size-thumbnail { max-width: 100%; height: auto; }
+.entry-content pre { background: #222222; color: #777777; font-size: 0.9em; padding: 1.5em; margin: 0 0 1.5em; border-radius: 3px; }
+
+/* end .entry-content */
 .page-links { clear: both; margin: 0 0 1.5em; }
 
 /*--------------------------------------------------------------
@@ -2302,6 +2398,70 @@ table { margin: 0 0 1.5em; width: 100%; }
 .comment-content a { word-wrap: break-word; }
 
 .bypostauthor { display: block; }
+
+/* h3 comment title */
+#comments-title { padding: 0.75em; margin: 0; border-top: 1px solid #777777; /* number of comments span */ }
+
+.commentlist { margin: 0; list-style-type: none; }
+
+.comment { position: relative; clear: both; overflow: hidden; padding: 1.5em; border-bottom: 1px solid #777777; /* vcard */ /* end .commentlist .vcard */ /* end children */ /* general comment classes */ }
+.comment .comment-author { padding: 7px; border: 0; }
+.comment .vcard { margin-left: 50px; }
+.comment .vcard cite.fn { font-weight: 700; font-style: normal; }
+.comment .vcard time { display: block; font-size: 0.9em; font-style: italic; }
+.comment .vcard time a { color: #777777; text-decoration: none; }
+.comment .vcard time a:hover { text-decoration: underline; }
+.comment .vcard .avatar { position: absolute; left: 16px; border-radius: 50%; }
+.comment:last-child { margin-bottom: 0; }
+.comment .children { margin: 0; /* variations */ /* change number for different depth */ }
+.comment[class*=depth-] { margin-top: 1.1em; }
+.comment.depth-1 { margin-left: 0; margin-top: 0; }
+.comment:not(.depth-1) { margin-top: 0; margin-left: 7px; padding: 7px; }
+.comment.odd { background-color: #eeeeee; }
+.comment.even { background: #777777; }
+
+/* comment meta */
+/* comment content */
+.comment_content p { margin: 0.7335em 0 1.5em; font-size: 1em; line-height: 1.5em; }
+
+/* end .commentlist .comment_content */
+/* comment reply link */
+.comment-reply-link { font-size: 0.9em; float: right; }
+
+/* end .commentlist .comment-reply-link */
+/* edit comment link */
+.comment-edit-link { font-style: italic; margin: 0 7px; text-decoration: none; font-size: 0.9em; }
+
+/******************************************************************
+11. COMMENT FORM STYLES
+******************************************************************/
+.comment-respond { padding: 1.5em; border-top: 1px solid #777777; }
+
+#reply-title { margin: 0; }
+
+.logged-in-as { color: #777777; font-style: italic; margin: 0; }
+.logged-in-as a { color: #555555; }
+
+.comment-form-comment { margin: 1.5em 0 0.75em; }
+.comment-form-comment label { width: 100%; }
+.comment-form-comment textarea { width: 100%; }
+
+.form-allowed-tags { border: 1px solid #eeeeee; padding: 1.5em; font-size: 0.9em; }
+.form-allowed-tags code { display: block; white-space: normal; }
+
+/* comment submit button */
+#submit { float: right; font-size: 1em; }
+
+/* comment form title */
+#comment-form-title { margin: 0 0 1.1em; }
+
+/* cancel comment reply link */
+/* logged in comments */
+/* allowed tags */
+#allowed_tags { margin: 1.5em 10px 0.7335em 0; }
+
+/* no comments */
+.nocomments { margin: 0 20px 1.1em; }
 
 /*--------------------------------------------------------------
 # Infinite scroll
@@ -2345,3 +2505,5 @@ embed, iframe, object { max-width: 100%; }
 .gallery-columns-9 .gallery-item { max-width: 11.11%; }
 
 .gallery-caption { display: block; }
+
+.tags { margin: 0; }
