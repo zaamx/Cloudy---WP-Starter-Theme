@@ -37,8 +37,23 @@
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'wpzaamx' ); ?></button>
-			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
+			
+			<?php wp_nav_menu(array(
+				'container' => 'div',                           // remove nav container
+				'container_class'   => 'collapse navbar-collapse', //ZAAMX clase de contenedor 
+				//'container_class' => 'menu clearfix',           // class of container (should you choose to use it)
+				'container_id'      => 'menu-primario',
+				'menu' => __( 'Menu Primario', 'wpzaamx' ),  // nav name
+				'menu_class' => 'nav navbar-nav',               // adding custom nav class
+				'theme_location' => 'primary',                 // where it's located in the theme
+				//'before' => '',                                 // before the menu
+				//'after' => '',                                  // after the menu
+				//'link_before' => '',                            // before each link
+				//'link_after' => '',                             // after each link
+				'depth' => 2,                                   // limit the depth of the nav
+				'fallback_cb' => 'wp_bootstrap_navwalker::fallback', // Modo de respaldo 
+				'walker' => new wp_bootstrap_navwalker()
+			)); ?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
 
