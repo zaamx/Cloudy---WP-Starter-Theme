@@ -24,8 +24,8 @@
 <body <?php body_class(); ?>  itemscope itemtype="http://schema.org/WebPage">
 
 
-<div id="page" class="hfeed site container">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'wpzaamx' ); ?></a>
+<div id="page" class="hfeed site">
+	<a class="skip-link sr-only" href="#content"><?php esc_html_e( 'Skip to content', 'wpzaamx' ); ?></a>
 
 	<header id="masthead" class="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
 		<div class="site-branding">
@@ -34,10 +34,25 @@
 			<p id="logo" class="h1" itemscope itemtype="http://schema.org/Organization"><a href="<?php echo home_url(); ?>" rel="nofollow"><?php bloginfo('name'); ?></a></p>
 
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
+
 		</div><!-- .site-branding -->
 
-		<nav id="site-navigation" class="main-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-			
+
+
+		<nav id="site-navigation" class="main-navigation navbar navbar-default " role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-primario">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+			 	</button>
+			 	<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
+					<?php bloginfo('name'); ?>
+				</a>
+			</div>
+				
 			<?php wp_nav_menu(array(
 				'container' => 'div',                           // remove nav container
 				'container_class'   => 'collapse navbar-collapse', //ZAAMX clase de contenedor 
@@ -57,4 +72,4 @@
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
 
-	<div id="content" class="site-content">
+	<div id="content" class="site-content container">
